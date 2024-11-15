@@ -77,7 +77,7 @@ Rand Enterprises is evaluating Azure for hosting its workloads. This project:
 
 ```bash
 ping 10.0.0.4
-
+```
 
 ### Step 5: Create a Custom RBAC Role
 Onboard a User
