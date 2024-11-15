@@ -77,3 +77,21 @@ Rand Enterprises is evaluating Azure for hosting its workloads. This project:
 
 ```bash
 ping 10.0.0.4
+
+
+### Step 5: Create a Custom RBAC Role
+Onboard a User
+
+1. Go to Azure Active Directory > Users > Add User.
+    Configure:
+        Username: rand-operator
+        Role: Custom RBAC Role
+
+2.Create and Assign a Custom Role
+
+    Go to the Resource Group > Access Control (IAM) > Add Custom Role.
+    Configure:
+        Name: ComputerOperator
+        Permissions: Start, stop, restart VMs; read-only access to network and storage.
+
+    Assign the role to the new user.
