@@ -136,6 +136,6 @@ Onboard a User
    
     Assign the role to the new user.
 
-    ![](images/Aspose.Words.9afeb35a-da07-4ed2-a377-ac8927ec2f3c.043.png)
+   ![](images/Aspose.Words.9afeb35a-da07-4ed2-a377-ac8927ec2f3c.043.png)
 
     **\*\*\*END MFOFANA\*\*\***
