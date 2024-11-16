@@ -61,8 +61,8 @@ Rand Enterprises is evaluating Azure for hosting its workloads. This project:
 **Summary of previous steps**
 
 **Ressource group : fof-project1** 
-**
-`      `First virual network **: rand-vnet-eastUS ![](Aspose.Words.9afeb35a-da07-4ed2-a377-ac8927ec2f3c.016.png)**
+
+** First virual network **: rand-vnet-eastUS ![](Aspose.Words.9afeb35a-da07-4ed2-a377-ac8927ec2f3c.016.png)**
 
 **Region : east US**
 
@@ -125,8 +125,7 @@ Onboard a User
 ![](images/Aspose.Words.9afeb35a-da07-4ed2-a377-ac8927ec2f3c.031.png)
 
 2.Create and Assign a Custom Role
-
-    Go to the Resource Group > Access Control (IAM) > Add Custom Role.
+   Go to the Resource Group > Access Control (IAM) > Add Custom Role.
     Configure:
         Name: ComputerOperator
         Permissions: Start, stop, restart VMs; read-only access to network and storage.
@@ -134,7 +133,7 @@ Onboard a User
    ![](images/Aspose.Words.9afeb35a-da07-4ed2-a377-ac8927ec2f3c.042.png)
    ![](images/Aspose.Words.9afeb35a-da07-4ed2-a377-ac8927ec2f3c.037.png)
    
-    Assign the role to the new user.
+   Assign the role to the new user.
 
    ![](images/Aspose.Words.9afeb35a-da07-4ed2-a377-ac8927ec2f3c.043.png)
 
