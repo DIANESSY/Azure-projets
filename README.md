@@ -29,7 +29,7 @@ Rand Enterprises is evaluating Azure for hosting its workloads. This project:
    - **Region**: East US
    - **IP Address Range**: `192.168.0.0/16`
 
-![VNet East US](images/vnet-eastus.png)
+![VNet East US](images/a1.png)
 
 #### VNet 2: West US
 1. Repeat the steps for the second VNet:
